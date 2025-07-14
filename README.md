@@ -3,9 +3,9 @@ IoT Motion-Based Security System
 Build a Security System That Detects Motion, Captures Images, and Sends Alerts to a Mobile App
 
 📋 Intern Details
-👨‍💼 Name: Shaik Javed Ahmed
+👨‍💼 Name: Mohammed Abdul Ali Nabeel
 
-🎓 Intern ID: CT04DF594
+🎓 Intern ID: CITS0D781
 
 🏢 Company: CodTech IT Solutions
 
