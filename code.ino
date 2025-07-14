@@ -82,8 +82,6 @@ void sendPhoto() {
 }
 
 
-  Circuit Diagram
- <img width="1536" height="1024" alt="ChatGPT Image Jul 14, 2025, 08_36_35 PM" src="https://github.com/user-attachments/assets/481a38c7-b728-496d-b30a-1d2b4da7029f" />
-
+  
 
  
